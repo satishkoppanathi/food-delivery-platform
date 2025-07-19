@@ -112,11 +112,6 @@ ZIP: Any 5 digits
 
 ---
 
-## 🖼️ Screenshots
-
-_Add screenshots or screen recordings of your app UI for a visual preview._
-
----
 
 ## 📬 Contact
 
