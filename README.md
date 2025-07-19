@@ -121,14 +121,7 @@ _Add screenshots or screen recordings of your app UI for a visual preview._
 ## 📬 Contact
 
 **Satish Koppanathi**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@satishkoppanathi](https://github.com/satishkoppanathi)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+📧 Email: satishkoppanathi2005@gmail.com  
 
 ---
 
